@@ -6,3 +6,4 @@ torch
 torchvision
 requests
 Pillow
+scikit-learn
